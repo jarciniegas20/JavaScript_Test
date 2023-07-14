@@ -1,4 +1,4 @@
-# JavaScript_Testing
+# JavaScript Page
 
 #### Skeleton Personal webpage
 
